@@ -1,3 +1,4 @@
+// do the thing you do
 } catch (IOException e) {
 ps.close();
 ResultSet rs = ps.executeQuery();
