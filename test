@@ -1,3 +1,4 @@
+String password = props.getProperty("db.password");
 out.write(”aString”);
 rs.close();
 test.fetch();
