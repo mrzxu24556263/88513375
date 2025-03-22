@@ -1,3 +1,4 @@
+test.fetch();
 String password = props.getProperty("db.password");
 if (out != null) {
 ResultSet rs = ps.executeQuery();
